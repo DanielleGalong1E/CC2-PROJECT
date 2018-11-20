@@ -68,11 +68,5 @@ public class finalActivity {
             System.out.println("f(" + d[x] + ")" + " =" + getFac(d[x]));
         } 
         System.out.print("\n");
-    }
-    
-    
-        
-        
-    
-    
+    }    
 }
